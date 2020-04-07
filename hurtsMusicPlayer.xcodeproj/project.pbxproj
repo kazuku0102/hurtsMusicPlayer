@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E740DC02243496D900DE109C /* Blood,Tears & Gold.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E740DC01243496D900DE109C /* Blood,Tears & Gold.mp3 */; };
+		E740DC04243496E700DE109C /* Miracle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E740DC03243496E700DE109C /* Miracle.mp3 */; };
+		E740DC06243496EF00DE109C /* Sandman.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E740DC05243496EF00DE109C /* Sandman.mp3 */; };
+		E740DC08243496FE00DE109C /* Silver Lining.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E740DC07243496FE00DE109C /* Silver Lining.mp3 */; };
+		E740DC0C2434971500DE109C /* Wonderful Life.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E740DC0B2434971500DE109C /* Wonderful Life.mp3 */; };
+		E740DC16243B0AF600DE109C /* Unspoken.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E740DC15243B0AF600DE109C /* Unspoken.mp3 */; };
 		E74639A1243335B600C95602 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74639A0243335B600C95602 /* AppDelegate.swift */; };
 		E74639A3243335B600C95602 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74639A2243335B600C95602 /* SceneDelegate.swift */; };
-		E74639A5243335B600C95602 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74639A4243335B600C95602 /* ViewController.swift */; };
 		E74639A8243335B600C95602 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E74639A6243335B600C95602 /* Main.storyboard */; };
 		E74639AA243335B800C95602 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E74639A9243335B800C95602 /* Assets.xcassets */; };
 		E74639AD243335B800C95602 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E74639AB243335B800C95602 /* LaunchScreen.storyboard */; };
+		E74639B5243335D500C95602 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74639B4243335D500C95602 /* MainViewController.swift */; };
+		E74639BF2433833100C95602 /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74639BE2433833100C95602 /* Song.swift */; };
+		E74639C1243385CB00C95602 /* HurtsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74639C0243385CB00C95602 /* HurtsTableViewController.swift */; };
+		E74639C32433A51B00C95602 /* HurtsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74639C22433A51A00C95602 /* HurtsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E740DC01243496D900DE109C /* Blood,Tears & Gold.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Blood,Tears & Gold.mp3"; sourceTree = "<group>"; };
+		E740DC03243496E700DE109C /* Miracle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Miracle.mp3; sourceTree = "<group>"; };
+		E740DC05243496EF00DE109C /* Sandman.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sandman.mp3; sourceTree = "<group>"; };
+		E740DC07243496FE00DE109C /* Silver Lining.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Silver Lining.mp3"; sourceTree = "<group>"; };
+		E740DC0B2434971500DE109C /* Wonderful Life.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Wonderful Life.mp3"; sourceTree = "<group>"; };
+		E740DC15243B0AF600DE109C /* Unspoken.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Unspoken.mp3; sourceTree = "<group>"; };
 		E746399D243335B600C95602 /* hurtsMusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hurtsMusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E74639A0243335B600C95602 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E74639A2243335B600C95602 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E74639A4243335B600C95602 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E74639A7243335B600C95602 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E74639A9243335B800C95602 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E74639AC243335B800C95602 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E74639AE243335B800C95602 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E74639B4243335D500C95602 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		E74639BE2433833100C95602 /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
+		E74639C0243385CB00C95602 /* HurtsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HurtsTableViewController.swift; sourceTree = "<group>"; };
+		E74639C22433A51A00C95602 /* HurtsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HurtsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +55,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E740DBFA2434942F00DE109C /* music */ = {
+			isa = PBXGroup;
+			children = (
+				E740DC15243B0AF600DE109C /* Unspoken.mp3 */,
+				E740DC0B2434971500DE109C /* Wonderful Life.mp3 */,
+				E740DC07243496FE00DE109C /* Silver Lining.mp3 */,
+				E740DC05243496EF00DE109C /* Sandman.mp3 */,
+				E740DC03243496E700DE109C /* Miracle.mp3 */,
+				E740DC01243496D900DE109C /* Blood,Tears & Gold.mp3 */,
+			);
+			path = music;
+			sourceTree = "<group>";
+		};
 		E7463994243335B600C95602 = {
 			isa = PBXGroup;
 			children = (
@@ -56,13 +87,17 @@
 		E746399F243335B600C95602 /* hurtsMusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				E740DBFA2434942F00DE109C /* music */,
 				E74639A0243335B600C95602 /* AppDelegate.swift */,
 				E74639A2243335B600C95602 /* SceneDelegate.swift */,
-				E74639A4243335B600C95602 /* ViewController.swift */,
 				E74639A6243335B600C95602 /* Main.storyboard */,
+				E74639C0243385CB00C95602 /* HurtsTableViewController.swift */,
+				E74639C22433A51A00C95602 /* HurtsTableViewCell.swift */,
+				E74639B4243335D500C95602 /* MainViewController.swift */,
 				E74639A9243335B800C95602 /* Assets.xcassets */,
 				E74639AB243335B800C95602 /* LaunchScreen.storyboard */,
 				E74639AE243335B800C95602 /* Info.plist */,
+				E74639BE2433833100C95602 /* Song.swift */,
 			);
 			path = hurtsMusicPlayer;
 			sourceTree = "<group>";
@@ -125,9 +160,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E740DC04243496E700DE109C /* Miracle.mp3 in Resources */,
+				E740DC08243496FE00DE109C /* Silver Lining.mp3 in Resources */,
+				E740DC0C2434971500DE109C /* Wonderful Life.mp3 in Resources */,
 				E74639AD243335B800C95602 /* LaunchScreen.storyboard in Resources */,
+				E740DC16243B0AF600DE109C /* Unspoken.mp3 in Resources */,
 				E74639AA243335B800C95602 /* Assets.xcassets in Resources */,
 				E74639A8243335B600C95602 /* Main.storyboard in Resources */,
+				E740DC02243496D900DE109C /* Blood,Tears & Gold.mp3 in Resources */,
+				E740DC06243496EF00DE109C /* Sandman.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +179,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E74639A5243335B600C95602 /* ViewController.swift in Sources */,
+				E74639C32433A51B00C95602 /* HurtsTableViewCell.swift in Sources */,
 				E74639A1243335B600C95602 /* AppDelegate.swift in Sources */,
 				E74639A3243335B600C95602 /* SceneDelegate.swift in Sources */,
+				E74639C1243385CB00C95602 /* HurtsTableViewController.swift in Sources */,
+				E74639B5243335D500C95602 /* MainViewController.swift in Sources */,
+				E74639BF2433833100C95602 /* Song.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
